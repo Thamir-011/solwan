@@ -11,6 +11,8 @@
 
 ---
 
+<div dir="ltr">
+
 ## English
 
 ### About
@@ -154,7 +156,11 @@ Deploy to Vercel with one click:
 
 **Note:** Set your `OPENAI_API_KEY` environment variable in the Vercel dashboard.
 
+</div>
+
 ---
+
+<div dir="rtl">
 
 ## العربية
 
@@ -177,7 +183,11 @@ Deploy to Vercel with one click:
 - OpenAI API - الذكاء الاصطناعي
 - LangChain - إدارة وكلاء الذكاء الاصطناعي
 
+</div>
+
 ---
+
+<div dir="ltr">
 
 ## Security
 
@@ -192,6 +202,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+</div>
 
 ---
 
